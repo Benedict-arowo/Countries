@@ -1,5 +1,18 @@
 {
-  "dependencies": {
-    "axios": "^1.7.2"
-  }
+	"name": "countries",
+	"version": "1.0.0",
+	"description": "An npm package that helps with getting informations about countries.",
+	"main": "/build/index.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Countries"
+	],
+	"author": "benedict.arowo",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^1.7.2"
+	}
 }
